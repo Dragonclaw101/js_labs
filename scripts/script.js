@@ -1,7 +1,9 @@
 'use strict';
 
-//Q: How does JavaScript aid in the building of a webpage?
+let num = 73;
+let drink = 'water';
+let name = 'Peter';
 
-//Q: How do I use JavaScript to animate images?
-
-//Q: Can JavaScript read files on your local computer to run operations?
+console.log('The number I am thinking of is ' + num);
+console.log('I like to drink ' + drink);
+console.log('My name is ' + name);
